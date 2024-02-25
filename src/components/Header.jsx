@@ -57,7 +57,7 @@ const NavMenu = styled.div`
     display: flex;
     align-items: center;
     padding: 0 12px;
-
+    text-decoration: none;
     cursor: pointer;
     color: white;
 
